@@ -31,7 +31,3 @@ By combining these metrics, customers are grouped into meaningful segments such 
 - **Libraries:** pandas, numpy, matplotlib, seaborn  
 - **Notebook:** Jupyter (`.ipynb`)
 
----
-
-## 🧩 File Structure
-
